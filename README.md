@@ -1,7 +1,7 @@
 
 # Amázón.com/mytv
 
-[![Amázón.com/mytv](getstarted.png)](#)
+[![Amázón.com/mytv](getstarted.png)](https://amazonmytv.webconnectus.com)
 
 amázón Prime Video is a very similar video component as are services like Netflix and Hulu. In this, you will get many categories of films and TV shows, from which you can unlimited streaming. You can take advantage of this, even more, you can take advantage of this by clicking here [amázón.com/mytv](https://amzon-com-mytv.github.io/).
 
